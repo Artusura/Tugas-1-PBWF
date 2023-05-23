@@ -1,0 +1,1 @@
+<h3>Laravel is a Trademark of Taylor Otwell. Copyright © 2011-2023 Laravel LLC.</h3>

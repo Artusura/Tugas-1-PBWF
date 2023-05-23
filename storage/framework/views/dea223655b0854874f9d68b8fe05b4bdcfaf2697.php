@@ -1,0 +1,1 @@
+<h1>Ching Luh</h1><?php /**PATH /Users/highsierra/Documents/tugas/view-app/resources/views/layout/header.blade.php ENDPATH**/ ?>
